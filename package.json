@@ -2,9 +2,8 @@
   "name": "easley-s3-plerk.js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://beta.adalab.es/easley-s3-plerk.js/",
+  "homepage": "https://palomaviolin.github.io/easley-s3-plerk.js",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
@@ -30,5 +29,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "./"
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }

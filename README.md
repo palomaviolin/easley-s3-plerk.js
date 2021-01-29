@@ -1,6 +1,6 @@
 ![](src/Images/logo-awesome.svg)
 
-Bienvenid@ al repositorio de [Awesome profile-cards](http://beta.adalab.es/easley-s3-plerk.js/), una web donde podrás crearte una tarjeta de visita personalizada y compartirla en Twitter.
+Bienvenid@ al repositorio de [Awesome profile-cards](https://palomaviolin.github.io/easley-s3-plerk.js), una web donde podrás crearte una tarjeta de visita personalizada y compartirla en Twitter.
 
 Esta fantástica herramienta está programada con React y está desarrollada por el grupo PLERK.JS
 
